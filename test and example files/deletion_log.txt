@@ -1,0 +1,3 @@
+supersmartwatch; 30 September 2022 11:55:13; 1; 10
+supersmartwatch; 30 September 2022 11:58:13; 2; 10
+wei-smartphone; 30 September 2022 12:55:31; 1; 10
